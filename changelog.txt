@@ -1,10 +1,4 @@
-wp-theme-simple-metro
-
-author:wildcat
-author link:http://wildcat.name
-last edit date:11/17/2012
-=====================
-更新日志：
+更新日志
 v1.07
 	1.增加了对评论分页的支持
 	2.修复了图片溢出文章区域的问题
@@ -30,6 +24,3 @@ v1.02
 v1.01
 	1.修复了IE下搜索框中的搜索按钮换行的问题
 	2.增加了pingback and trackback的显示
-=====================
-
-my wp theme work

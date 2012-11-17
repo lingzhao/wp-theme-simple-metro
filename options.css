@@ -1,0 +1,22 @@
+span.option-name {
+	font-weight:bold;
+	font-size:14px;
+	float:right;
+}
+#simplemetro-options ul {
+	list-style:square;
+}
+#simplemetro-options ul input {
+	width:245px;
+}
+#simplemetro-options ul textarea {
+	width:210px;
+}
+#button3_show,#button4_show{
+    height: 40px;
+}
+img#button3_show:hover,img#button4_show:hover {
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter:alpha(opacity=60);
+    opacity:.6;
+}
