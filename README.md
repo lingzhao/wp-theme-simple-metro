@@ -1,35 +1,35 @@
-wp-theme-simple-metro
+ï»¿wp-theme-simple-metro
 
 author:wildcat
 author link:http://wildcat.name
 last edit date:11/17/2012
 =====================
-¸üÐÂÈÕÖ¾£º
+æ›´æ–°æ—¥å¿—ï¼š
 v1.07
-	1.Ôö¼ÓÁË¶ÔÆÀÂÛ·ÖÒ³µÄÖ§³Ö
-	2.ÐÞ¸´ÁËÍ¼Æ¬Òç³öÎÄÕÂÇøÓòµÄÎÊÌâ
+	1.å¢žåŠ äº†å¯¹è¯„è®ºåˆ†é¡µçš„æ”¯æŒ
+	2.ä¿®å¤äº†å›¾ç‰‡æº¢å‡ºæ–‡ç« åŒºåŸŸçš„é—®é¢˜
 v1.06
-	1.½«ÎÄÕÂ±êÌâ×ó±ßÏÔÊ¾µÄÊý×ÖÓÉÎÄÕÂµÄä¯ÀÀÁ¿ÐÞ¸ÄÎªÆÀÂÛÊýÁ¿£¬ÖÁ´Ë±¾Ö÷Ìâ²»ÔÙÐèÒªwp-postviews²å¼þµÄÖ§³Ö
-	2.ÓÅ»¯ÎÄÕÂÄÚ<p>±êÇ©µÄÏÔÊ¾
-	3.ÓÅ»¯ÆÀÂÛµÄAjaxÌá½»µÄÌáÊ¾
-	4.¸Ä½øÁË¶¥À¸Í¼Æ¬°´Å¥µÄÏÔÊ¾·½Ê½
+	1.å°†æ–‡ç« æ ‡é¢˜å·¦è¾¹æ˜¾ç¤ºçš„æ•°å­—ç”±æ–‡ç« çš„æµè§ˆé‡ä¿®æ”¹ä¸ºè¯„è®ºæ•°é‡ï¼Œè‡³æ­¤æœ¬ä¸»é¢˜ä¸å†éœ€è¦wp-postviewsæ’ä»¶çš„æ”¯æŒ
+	2.ä¼˜åŒ–æ–‡ç« å†…<p>æ ‡ç­¾çš„æ˜¾ç¤º
+	3.ä¼˜åŒ–è¯„è®ºçš„Ajaxæäº¤çš„æç¤º
+	4.æ”¹è¿›äº†é¡¶æ å›¾ç‰‡æŒ‰é’®çš„æ˜¾ç¤ºæ–¹å¼
 v1.05
-	1.½â¾ö²¿·Ö·ÇwebkitÄÚºËä¯ÀÀÆ÷ÏÂ£¬¶¥²¿²Ëµ¥ÏÔÊ¾²»Õý³£µÄÎÊÌâ
+	1.è§£å†³éƒ¨åˆ†éžwebkitå†…æ ¸æµè§ˆå™¨ä¸‹ï¼Œé¡¶éƒ¨èœå•æ˜¾ç¤ºä¸æ­£å¸¸çš„é—®é¢˜
 v1.04
-	1.ÍêÉÆºóÌ¨Ö÷ÌâÉèÖÃµÄ¹¦ÄÜ
-	2.Ôö¼ÓÒ³ÃækeywordsºÍdescriptionÓÅ»¯
-	3.Ôö¼Ó¶¥²¿²Ëµ¥ÌÚÑ¶Î¢²©Í¼±ê
+	1.å®Œå–„åŽå°ä¸»é¢˜è®¾ç½®çš„åŠŸèƒ½
+	2.å¢žåŠ é¡µé¢keywordså’Œdescriptionä¼˜åŒ–
+	3.å¢žåŠ é¡¶éƒ¨èœå•è…¾è®¯å¾®åšå›¾æ ‡
 v1.03
-	1.ÐÞ¸´°æ±¾¿ØÖÆ³öÏÖµÄÎÊÌâ
-        2.ÆÀÂÛ¿ÉÍ¨¹ýCtrl+EnterÌá½»
-        3.ÓÅ»¯404.php
-        4.È¥³ý²¿·ÖÈßÓà´úÂë
+	1.ä¿®å¤ç‰ˆæœ¬æŽ§åˆ¶å‡ºçŽ°çš„é—®é¢˜
+        2.è¯„è®ºå¯é€šè¿‡Ctrl+Enteræäº¤
+        3.ä¼˜åŒ–404.php
+        4.åŽ»é™¤éƒ¨åˆ†å†—ä½™ä»£ç 
 v1.02
-	1.ÐÞ¸´ÁËfunctions.phpµ¼ÖÂºóÌ¨¹¤×÷²»Õý³£µÄbug
+	1.ä¿®å¤äº†functions.phpå¯¼è‡´åŽå°å·¥ä½œä¸æ­£å¸¸çš„bug
 
 v1.01
-	1.ÐÞ¸´ÁËIEÏÂËÑË÷¿òÖÐµÄËÑË÷°´Å¥»»ÐÐµÄÎÊÌâ
-	2.Ôö¼ÓÁËpingback and trackbackµÄÏÔÊ¾
+	1.ä¿®å¤äº†IEä¸‹æœç´¢æ¡†ä¸­çš„æœç´¢æŒ‰é’®æ¢è¡Œçš„é—®é¢˜
+	2.å¢žåŠ äº†pingback and trackbackçš„æ˜¾ç¤º
 =====================
 
 my wp theme work
