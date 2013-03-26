@@ -45,7 +45,10 @@
         <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="<?php bloginfo('atom_url'); ?>" />
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" /> 
 
-        <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7.2/jquery.min.js"></script>
+        <!--[if lt IE 7]>
+        <script defer type="text/javascript" src="<?php bloginfo('template_directory'); ?>/pngfix.js"></script>
+        <![endif]-->
+        <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.9.0/jquery.min.js"></script>
         <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/base.js"></script>
         <?php if (is_singular()) { ?>
             <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/comments-ajax.js"></script>

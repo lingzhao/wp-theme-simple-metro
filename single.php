@@ -11,6 +11,7 @@
                 </div>
 
                 <div class="entry"><?php the_content(); ?>
+                    <?php link_pages('<p><strong>Pages:</strong>', '</p>', 'number'); ?>
                     <p class="postmetadata">
                         
                          <?php _e('标签'); ?>:<?php the_tags('');   ?><br />
@@ -18,11 +19,13 @@
         <?php //comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?> <?php //edit_post_link('Edit', ' &#124; ', ''); ?>
                       
                     </p>
+                    
                 </div>
 
                 <div class="comments-template">
         <?php comments_template(); ?>
                 </div>
+                
             </div>
             <?php endwhile; ?>
         <div class="navigation">

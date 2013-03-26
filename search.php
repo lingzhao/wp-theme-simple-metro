@@ -11,7 +11,9 @@
         while (have_posts()) : the_post();
             ?>
             <div class="post">
-                <div class="postviews"><p class="postviews-count"><?php post_views(); ?> </p><p class="text-views">views</p></div>
+                <div class="postviews"><p class="postviews-count">
+                    <?php comments_number('0','1','%');  ?> </p>
+                    <p class="text-replies">reply</p></div>
                 <div class="postheader"><div class="posttitle"><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></div>
                     <div class="posttags"><?php the_tags(''); ?></div>
                 </div>

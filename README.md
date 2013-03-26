@@ -2,9 +2,13 @@
 
 author:wildcat
 author link:http://wildcat.name
-last edit date:11/17/2012
+last edit date:3/26/2013
 =====================
-更新日志：
+更新日志
+v1.08
+	1.修复了搜索结果页评论数显示的问题
+	2.顶部图片按钮变淡效果改用jQuery实现
+	3.增加文章页面(single.php)对分页的支持
 v1.07
 	1.增加了对评论分页的支持
 	2.修复了图片溢出文章区域的问题
